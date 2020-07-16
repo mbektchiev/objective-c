@@ -73,3 +73,8 @@ Icon?
 ehthumbs.db
 Thumbs.db
 .idea/
+
+# Swift Package Manager
+/.build
+/Packages
+/*.xcodeproj
